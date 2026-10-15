@@ -1,0 +1,18 @@
+{
+  "welcome": "Welcome to the app!",
+  "settings": "Settings",
+  "personal-information": "Personal Information",
+  "your-name": "Your Name",
+  "your-email": "Your Email",
+  "save-changes": "Save Changes",
+  "language": "Language",
+  "notifications": "Notifications",
+  "activate-notifications": "Activate Notifications",
+  "security-and-privacy": "Security and Privacy",
+  "biometric-lock": "Biometric Lock",
+  "data-and-storage": "Data and Storage",
+  "export-backup-data": "Export Backup Data",
+  "clear-cache": "Clear Cache",
+  "app-information": "App Information",
+  "version": "Version"
+}
